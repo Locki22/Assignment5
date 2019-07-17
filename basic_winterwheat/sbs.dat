@@ -1,0 +1,58 @@
+  PRECIPmm                43      10
+ SNOFALLmm                53      10
+ SNOMELTmm                63      10
+     IRRmm                73      10
+     PETmm                83      10
+      ETmm                93      10
+      SWmm               103      10
+    PERCmm               113      10
+ GW_RCHGmm               123      10
+ DA_RCHGmm               133      10
+   REVAPmm               143      10
+  SA_IRRmm               153      10
+  DA_IRRmm               163      10
+   SA_STmm               173      10
+   DA_STmm               183      10
+    SURQmm               193      10
+   TLOSSmm               203      10
+    LATQmm               213      10
+    GW_Qmm               223      10
+    WYLDmm               233      10
+  SYLDt/ha               243      10
+  USLEt/ha               253      10
+N_APPkg/ha               263      10
+P_APPkg/ha               273      10
+NAUTOkg/ha               283      10
+PAUTOkg/ha               293      10
+ NGRZkg/ha               303      10
+ PGRZkg/ha               313      10
+NRAINkg/ha               323      10
+ NFIXkg/ha               333      10
+ F-MNkg/ha               343      10
+ A-MNkg/ha               353      10
+ A-SNkg/ha               363      10
+ F-MPkg/ha               373      10
+AO-LPkg/ha               383      10
+ L-APkg/ha               393      10
+ A-SPkg/ha               403      10
+ DNITkg/ha               413      10
+  NUPkg/ha               423      10
+  PUPkg/ha               433      10
+ ORGNkg/ha               443      10
+ ORGPkg/ha               453      10
+ SEDPkg/ha               463      10
+NSURQkg/ha               473      10
+NLATQkg/ha               483      10
+ NO3Lkg/ha               493      10
+NO3GWkg/ha               503      10
+ SOLPkg/ha               513      10
+ P_GWkg/ha               523      10
+    W_STRS               533      10
+  TMP_STRS               543      10
+    N_STRS               553      10
+    P_STRS               563      10
+  BIOMt/ha               573      10
+       LAI               583      10
+   YLDt/ha               593      10
+   BACTPct               603      10
+  BACTLPct               613      10

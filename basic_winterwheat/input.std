@@ -1,0 +1,36 @@
+1
+    SWAT  Feb.'01 VERSION2000                                                                            7/17/2019     21:18:40
+
+    General Input/Output section (file.cio):           Fri Mar 26 11:29:00 2004 AVSW
+                                                                                    
+                                                                                    
+         Number of years in run:   14
+         Area of watershed:      116.875 km2
+         Random number generator cycles: 0, use default numbers
+
+         Initial random number seed: wet/dry day prob        748932582
+         Initial random number seed: radiation              1948832765
+         Initial random number seed: precipitation           857034417
+         Initial random number seed: 0.5 hr rainfall          67377721
+         Initial random number seed: wind speed              366304404
+         Initial random number seed: irrigation             1348233672
+         Initial random number seed: relative humidity      1767585417
+         Initial random number seed: max temperature         608439319
+         Initial random number seed: min temperature         592757081
+
+         Precipitation data used in run:
+          Multiple gages read for watershed
+             Daily rainfall data used
+
+         Temperature data used in run:
+          Multiple gages read for watershed
+
+         PET method used: Penman-Monteith
+
+         Rainfall/Runoff/Routing Option:
+          Daily rainfall data
+          Runoff estimated with curve number method
+          Daily stream routing
+           Variable Storage routing method
+           Channel dimensions remain constant
+           In-stream nutrient transformations not modeled

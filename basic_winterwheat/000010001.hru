@@ -1,0 +1,33 @@
+ .hru file Subbasin:1 HRU:1 Luse:AGRL Soil:Braunerde Tue Dec 30 09:30:16 2003 AVSWAT2000 - SWAT interface MDL
+       1.0000000    | HRU_FR : Fraction of total watershed area contained in HRU
+          91.463    | SLSUBBSN : Average slope length [m]
+           0.022    | SLOPE : Average slope stepness [m/m]
+           0.100    | OV_N : Manning's "n" value for overland flow
+           0.000    | LAT_TTIME : Lateral flow travel time [days]
+           0.000    | LAT_SED : Sediment concentration in lateral flow and groundwater flow [mg/l]
+           0.000    | SLSOIL : Slope length for lateral subsurface flow [m]
+           4.000    | CANMX : Maximum canopy storage [mm]
+           0.950    | ESCO : Soil evaporation compensation factor
+           1.000    | EPCO : Plant uptake compensation factor
+           0.000    | RSDIN : Initial residue cover [kg/ha]
+           0.000    | ERORGN : Organic N enrichment ratio
+           0.000    | ERORGP : Organic P enrichment ratio
+           0.000    | FILTERW : Filter strip width
+               0    | IURBAN : Urban simulation code
+               0    | URBLU : Urban land type identification number 
+               0    | IRR : Irrigation code
+               0    | IRRNO : Irrigation source location
+           0.000    | FLOWMIN : Minimum in-stream flow for irrigation
+           0.000    | DIVMAX : Maximum daily irrigation diversion from the reach [mm] or [104m3](see manual)
+           0.000    | FLOWFR : Fraction of available flow
+           0.000    | DDRAIN : Depth to surface drain [mm]
+           0.000    | TDRAIN : Time to drain soil to field capacity [hours]
+           0.000    | GDRAIN : Drain tile lag time [hours]
+               0    | NPTOT : The total number of different type of pesticides
+               0    | IPOT : Number of HRU
+           0.000    | POT_FR : Fraction of HRU are that drains into pothole
+           0.000    | POT_TILE : Average daily outflow to main channel from tile flow [m3/s]
+           0.000    | POT_VOLX : Maximum volume of water stored in the pothole [104m3]
+           0.000    | POT_VOL : Initial volume of water stored in pothole [104m3]
+           0.000    | POT_NSED : Normal sediment concentration in pothole [mg/l]
+           0.000    | POT_NO3L : Nitrate decay rate in pothole [1/day]

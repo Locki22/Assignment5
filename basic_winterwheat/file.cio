@@ -1,0 +1,16 @@
+General Input/Output section (file.cio):           Fri Mar 26 11:29:00 2004 AVSWAT2000 - SWAT interface MDL
+
+
+   basins.bsb   basins.sbs   basins.rch   basins.rsv   basins.lqo   basins.wtr
+   basins.pso   basins.eve   basins.fig   basins.cod   basins.bsn   basins.wwq
+     crop.dat     till.dat     pest.dat     fert.dat    urban.dat
+   1   1   1   1   1   1   1   1   1
+      pcp.pcp
+
+
+      tmp.tmp
+
+
+      slr.slr      hmd.hmd      wnd.wnd             
+00001 000010000.sub 000010000.rte 000010000.pnd 000010000.wus
+      000010000.wgn 000010000.swq                  1   1   1   1   1

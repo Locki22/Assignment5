@@ -1,0 +1,33 @@
+Control file:           .cod file Fri Mar 26 11:27:27 2004 AVSWAT2000 - SWAT interface MDL
+              14    | NBYR : Number of years simulated
+            1989    | IYR : Beginning year of simulation
+               1    | IDAF : Beginning julian day of simulation
+              59    | IDAL : Ending julian day of simulation
+               1    | IPD : Print code (month, day, year)
+               0    | NYSKIP : Number of years to skip output printing/summarization
+               1    | IPRN : Print code for .std file: 0=input summary is printed
+               0    | ILOG : Stream flow print code: 1=print log of streamflow
+               1    | IPRP : Print code for .pso file: 1=print pesticide output
+               0    | IGN : Random number seed cycle code
+               1    | PCPSIM : Precipitation simulation code: 1=measured, 2=simulated
+              30    | IDT : Rainfall data time step
+               0    | IDIST : Rainfall distribution code 0 skewed, 1 exponential
+            1.30    | REXP : Exponent for IDIST=1
+               1    | TMPSIM : Precipitation simulation code: 1=measured, 2=simulated
+               1    | SLRSIM : Solar radiation simulation code: 1=measured, 2=simulated
+               1    | RHSIM : Relative humidity simulation code: 1=measured, 2=simulated
+               1    | WINDSIM : Windspeed simulation code: 1=measured, 2=simulated
+               1    | IPET : PET method: 0=priest-t, 1=pen-m, 2=har, 3=read into model
+               0    | IEVENT : Rainfall//runoff code: 0=daily rainfall/CN
+               0    | ICRK : Crack flow code: 1=model crack flow in soil
+               0    | IRTE : Water routing method 0=variable travel time, 1 = Muskingum
+               0    | IDEG : Channel degradation code
+               0    | IRESQ : Lake water quality: 1= model lake water quality
+               0    | IWQ : In-stream water quality: 1= model in-stream water quality
+               0    | ISPROJ : special project: 1=HUMUS, 2=Missouri River
+Reach output variables
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Subbasin output variables
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+HRU output variables
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,0 +1,17 @@
+--------------------------------------------------------------------------------
+
+Fields Out Of Parameter Ranges:                               AVSWAT2000 Mon Dec 29 11:19:03 2003
+
+--------------------------------------------------------------------------------
+   
+Table: Crop database, Crop name: Forest-Deci, Parameter: Chtmx , Value:  23
+Table: Crop database, Crop name: Forest-Ever, Parameter: Chtmx , Value:  25
+Table: Crop database, Crop name: Water, Parameter: Bio_e , Value:  0
+Table: Crop database, Crop name: Water, Parameter: Blai , Value:  0
+Table: Crop database, Crop name: Water, Parameter: Bp3 , Value:  0.019
+Table: Crop database, Crop name: Water, Parameter: Bioehi , Value:  0
+Table: Crop database, Crop name: Water, Parameter: Rsdco_pl , Value:  0
+Table: Crop database, Crop name: Urban, Parameter: Bio_e , Value:  8
+Table: Crop database, Crop name: Urban, Parameter: Bioehi , Value:  0
+Table: Crop database, Crop name: Urban, Parameter: Rsdco_pl , Value:  0
+  

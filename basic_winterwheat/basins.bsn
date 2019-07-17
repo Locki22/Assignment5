@@ -1,0 +1,47 @@
+Basin data           .bsn file Fri Mar 26 11:27:27 2004 AVSWAT2000 - SWAT interface MDL
+         116.875    | DA_KM : Area of the watershed [km2]
+           0.000    | DT : . Time step for infiltration and channel routing [hr]
+           1.000    | SFTMP : Snowfall temperature [ºC]
+           0.500    | SMTMP : Snow melt base temperature [ºC]
+           4.500    | SMFMX : Melt factor for snow on June 21 [mm H2O/ºC-day]
+           4.500    | SMFMN : Melt factor for snow on December 21 [mm H2O/ºC-day]
+           1.000    | TIMP : Snow pack temperature lag factor
+           1.000    | SNOCOVMX : Minimum snow water content that corresponds to 100% snow cover [mm]
+           0.500    | SNO50COV : Fraction of snow volume represented by SNOCOVMX that corresponds to 50% snow cover
+           1.000    | RCN : Concentration of nitrogen in rainfall [mg N/l]
+           1.000    | SURLAG : Surface runoff lag time [days]
+           1.000    | APM : Peak rate adjustment factor for sediment routing in the subbasin (tributary channels)
+           1.000    | PRF : Peak rate adjustment factor for sediment routing in the main channel
+           0.001    | SPCON : Linear parameter for calculating the maximum amount of sediment that can be reentrained during channel sediment routing 
+           1.500    | SPEXP : Exponent parameter for calculating sediment reentrained in channel sediment routing 
+           0.000    | PARM1 : Not active
+           0.000    | PARM2 : Not Active
+           0.000    | PARM3 : Not Active
+           0.000    | PARM4 : Not Active
+           0.000    | PARM5 : Not Active
+           1.000    | EVRCH : Reach evaporation adjustment factor
+           3.000    | EVLAI : Leaf area index at which no evaporation occurs from water surface [m2/m2]
+           0.000    | FFCB : Initial soil water storage expressed as a fraction of field capacity water content
+           0.003    | CMN : Rate factor for humus mineralization of active organic nitrogen
+           5.000    | UBN : Nitrogen uptake distribution parameter
+           5.000    | UBP : Phosphorus uptake distribution parameter
+           0.200    | NPERCO : Nitrogen percolation coefficient
+          10.000    | PPERCO : Phosphorus percolation coefficient
+         175.000    | PHOSKD : Phosphorus soil partitioning coefficient
+           0.400    | PSP : Phosphorus sorption coefficient
+           0.050    | RSDCO : Residue decomposition coefficient
+           0.500    | PERCOP : Pesticide percolation coefficient
+               0    | IRTPEST : Number of pesticide to be routed through the watershed channel network
+           0.000    | WDPQ : Die-off factor for persistent bacteria in soil solution. [1/day]
+           0.000    | WGPQ : Growth factor for persistent bacteria in soil solution [1/day]
+           0.000    | WDLPQ : Die-off factor for less persistent bacteria in soil solution [1/day]
+           0.000    | WGLPQ : Growth factor for less persistent bacteria in soil solution. [1/day] 
+           0.000    | WDPS : Die-off factor for persistent bacteria adsorbed to soil particles. [1/day]
+           0.000    | WGPS : Growth factor for persistent bacteria adsorbed to soil particles. [1/day]
+           0.000    | WDLPS : Die-off factor for less persistent bacteria adsorbed to soil particles. [1/day] 
+           0.000    | WGLPS : Growth factor for less persistent bacteria adsorbed to soil particles. [1/day]
+         175.000    | BACTKDQ : Bacteria partition coefficient
+           1.070    | THBACT : Temperature adjustment factor for bacteria die-off/growth
+           0.000    | MSK_CO1 : Calibration coefficient used to control impact of the storage time constant (Km) for normal flow 
+           3.500    | MSK_CO2 : Calibration coefficient used to control impact of the storage time constant (Km) for low flow 
+           0.200    | MSK_X : Weighting factor controlling relative importance of inflow rate and outflow rate in determining water storage in reach segment
